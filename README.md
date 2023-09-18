@@ -1,3 +1,3 @@
 # Leobardo-personal-webisite
 
-Honest, Perservancse, and fun
+Honest, Perseverance, and fun
