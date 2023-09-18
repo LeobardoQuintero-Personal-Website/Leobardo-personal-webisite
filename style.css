@@ -1,0 +1,19 @@
+.move {
+    font-size: 30px;
+    float: right;
+}
+
+.head {
+    font-size: 30px;
+    padding: 20px;
+    background-color: blueviolet;
+}
+
+.big {
+    
+    background-color: aquamarine;
+}
+
+.color {
+    background-color: rgb(214, 205, 255);
+}
