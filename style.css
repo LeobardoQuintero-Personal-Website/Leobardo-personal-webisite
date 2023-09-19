@@ -1,19 +1,41 @@
 .move {
     font-size: 30px;
     float: right;
+    color: rgb(114, 189, 255);
 }
 
 .head {
     font-size: 30px;
     padding: 20px;
-    background-color: blueviolet;
+    color: aliceblue;
 }
 
 .big {
+    color: aliceblue;
+    background-color: #504281;
+    padding: 64px 24px 96px; 
     
-    background-color: aquamarine;
 }
 
 .color {
-    background-color: rgb(214, 205, 255);
+    background-color: #0f0044;
 }
+
+p {
+    font-size: 35px;
+    font-style: italic;
+}
+
+a {
+    color: rgb(67, 113, 153);
+    margin-right: 15px;
+    text-decoration: none;
+}
+
+img {
+    width: 5%;
+    margin-left: 400px;
+    padding-top: 400px;
+}
+
+
