@@ -24,6 +24,7 @@
 p {
     font-size: 35px;
     font-style: italic;
+    color: aliceblue;
 }
 
 a {
@@ -32,10 +33,46 @@ a {
     text-decoration: none;
 }
 
-img {
-    width: 5%;
-    margin-left: 400px;
-    padding-top: 400px;
+h1 {
+    color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
 }
 
+.face {
+    width: 50px;
+    padding-top: 50px;
+}
 
+.linked {
+    width: 50px;
+}
+
+.insta {
+    width: 50px;
+    
+}
+
+footer {
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+#gym {
+    width: 500px;
+}
+
+#tech {
+    width: 450px;
+}
+
+#zoo {
+    width: 500px;
+}
+
+h2 {
+    color: aliceblue;
+}
