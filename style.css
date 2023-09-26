@@ -19,6 +19,7 @@
 
 .color {
     background-color: #0f0044;
+    display: grid;
 }
 
 p {
@@ -31,6 +32,10 @@ a {
     color: rgb(67, 113, 153);
     margin-right: 15px;
     text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
 }
 
 h1 {
@@ -74,5 +79,9 @@ footer {
 }
 
 h2 {
+    color: aliceblue;
+}
+
+.send {
     color: aliceblue;
 }
